@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **work@yolan.dev**
 
-- 📄 Know about my experiences [http://yolan.dev](http://yolan.dev)
+- 📄 Know about my experiences [https://yolan.dev](http://yolan.dev)
 
 - ⚡ Fun fact **I run arch BTW**
 
