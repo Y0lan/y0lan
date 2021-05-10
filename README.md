@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0lan&label=Profile%20views&color=0e75b6&style=flat" alt="y0lan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y0lan" alt="y0lan" /></a> </p>
-
 - 🔭 I’m currently working on [school projects](https://github.com/Y0lan?tab=repositories)
 
 - 🌱 I’m currently learning **Go, Svelte**
