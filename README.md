@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y0lan&label=Profile%20views&color=0e75b6&style=flat" alt="y0lan" /> </p>
 
-- 🔭 I’m currently working on [school projects](https://github.com/Y0lan?tab=repositories)
+- 🔭 I’m currently working on [big corporate projects](https://github.com/Y0lan?tab=repositories)
 
 - 🌱 I’m currently learning **Go, Svelte**
 
